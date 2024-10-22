@@ -1,1 +1,2 @@
 # Fulga_Teodor_ActivitateDAM2024
+# Fulga_Teodor_ActivitateDAM2024
