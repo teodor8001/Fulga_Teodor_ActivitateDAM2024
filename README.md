@@ -1,0 +1,1 @@
+# Fulga_Teodor_ActivitateDAM2024
