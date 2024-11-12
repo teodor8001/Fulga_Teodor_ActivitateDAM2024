@@ -46,6 +46,15 @@ public class AdaugareMasinaActivity extends AppCompatActivity {
                         modelEditText.getText().toString());
                 Toast.makeText(getApplicationContext(), masina1.toString(), Toast.LENGTH_LONG).show();
 
+                Bundle bundle = new Bundle();
+                bundle.putString("brand", masina1.getBrand());
+                bundle.putBoolean("isSport", masina1.getIsSport());
+                bundle.putInt("caiPutere", masina1.getCaiPutere());
+                bundle.putString("model", masina1.getModel());
+                Intent it = new Intent();
+                it.putExtras(bundle);
+                setResult(RESULT_OK, it);
+                finish();
             }
         });
     }
