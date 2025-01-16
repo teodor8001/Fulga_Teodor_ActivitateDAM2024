@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "491416702179",
+    "firebase_url": "https://seminar11099-914466b4-default-rtdb.firebaseio.com",
+    "project_id": "seminar11099-914466b4",
+    "storage_bucket": "seminar11099-914466b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491416702179:android:a30b61f29b71fce2c209d6",
+        "android_client_info": {
+          "package_name": "com.example.proiectfacultate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGUU8bdth_rGqwEjWrh_gA10rlz4WM5eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
